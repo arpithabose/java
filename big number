@@ -2,7 +2,7 @@ package module1;
 import java.util.Scanner;
 public class TernaryOperatorDemo {
  public static void main(String[] args){
-      Scannet sc= new Scanner(System.in);
+      Scanner sc= new Scanner(System.in);
       int firstNumber, secondNumber;
       System.out.println("Enter the First Number:");
       firstNumber= sc.nextInt();
